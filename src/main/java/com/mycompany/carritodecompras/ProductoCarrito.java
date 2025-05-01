@@ -6,7 +6,7 @@ package com.mycompany.carritodecompras;
 
 /**
  *
- * EQUIPO: Denisse Joya
+ * EQUIPO: Denisse Joya Ramírez
            Perla Susana Diaz Rios
            Evelyn Merari Medina Urdiana 
            Lesly Danai Osorio Bezares 
