@@ -7,7 +7,11 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Denisse Joya
+ * EQUIPO: Denisse Joya
+           Perla Susana Diaz Rios
+           Evelyn Merari Medina Urdiana 
+           Lesly Danai Osorio Bezares 
+   
  */
 
 
