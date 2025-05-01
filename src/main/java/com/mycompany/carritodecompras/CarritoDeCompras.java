@@ -8,7 +8,10 @@ import java.awt.*;
 
 /**
  *
- * @author Denisse Joya
+ * EQUIPO: Denisse Joya
+           Perla Susana Diaz Rios
+           Evelyn Merari Medina Urdiana 
+           Lesly Danai Osorio Bezares 
  */
 
 
